@@ -1,0 +1,90 @@
+body {
+    background-color: #eee;
+    color: #000;
+    font-size: 16px;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, .5);
+    float: left;
+    position: fixed;
+    width: 100%;
+}
+
+.logo {
+    margin: 20px;
+    width: 100px;
+}
+
+.large-pic {
+    width: 100%;
+}
+
+.medium-pic {
+    width: 70%;
+}
+
+.left,
+.right {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+    float: right;
+}
+
+li {
+    float: right;
+    padding: 30px;
+}
+
+article {
+    padding-top: 100px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.right a {
+    font-size: 1em;
+    line-height: normal;
+}
+
+figcaption {
+    font-size: .8em;
+    line-height: normal;
+}
+
+h1 {
+    font-size: 3em;
+    line-height: 125%;
+}
+
+h3 {
+    font-size: 1.75em;
+    line-height: 110%;
+}
+
+.author {
+    font-size: 1.25em;
+    line-height: 175%;
+}
+
+.story-text p {
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 1em 0;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
